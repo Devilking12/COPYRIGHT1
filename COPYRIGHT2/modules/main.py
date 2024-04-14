@@ -48,7 +48,7 @@ async def start(_, msg):
 
 gd_buttons = [              
         [
-            InlineKeyboardButton("ᴏᴡɴᴇʀ", user_id=OWNER_ID),
+            InlineKeyboardButton("ᴏᴡɴᴇʀ", user_id="6996208572"),
             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/feelings_for_you_baby"),    
         ]
         ]
